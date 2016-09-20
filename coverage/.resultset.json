@@ -1,10 +1,6 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/aditya/Projects/p_cambridge/app/helpers/application_helper.rb": [
-        1,
-        null
-      ],
       "/home/aditya/Projects/p_cambridge/lib/cambridge_project.rb": [
         1,
         null,
@@ -49,15 +45,8 @@
         1,
         null,
         null
-      ],
-      "/home/aditya/Projects/p_cambridge/app/controllers/application_controller.rb": [
-        0,
-        0,
-        0,
-        0,
-        0
       ]
     },
-    "timestamp": 1474399916
+    "timestamp": 1474402250
   }
 }
