@@ -1,0 +1,63 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/aditya/Projects/p_cambridge/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/aditya/Projects/p_cambridge/lib/cambridge_project.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        10,
+        null,
+        0,
+        null,
+        2,
+        null,
+        null,
+        1,
+        6,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        148,
+        7,
+        141,
+        64,
+        205,
+        64,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/home/aditya/Projects/p_cambridge/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1474399916
+  }
+}
