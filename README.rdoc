@@ -1,12 +1,16 @@
 == README
 
 Environment :
+
 Ruby : 2.1.10
+
 Rails : 4.2.6
 
 Tasks are added to /lib directory
 
+
 File name : lib/cambridge_project.rb
+
 Spec file : spec/lib/cambridge_project_spec.rb
 
 
